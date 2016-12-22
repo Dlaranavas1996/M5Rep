@@ -69,7 +69,7 @@
             this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView2.Location = new System.Drawing.Point(151, 54);
             this.dataGridView2.Name = "dataGridView2";
-            this.dataGridView2.Size = new System.Drawing.Size(131, 195);
+            this.dataGridView2.Size = new System.Drawing.Size(131, 97);
             this.dataGridView2.TabIndex = 3;
             // 
             // Form1
